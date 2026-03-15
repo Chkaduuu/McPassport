@@ -1,6 +1,6 @@
 ### Created by Chkaduuu
 **Usage and configuration:**
-[►Commands and Permissions]((https://github.com/Chkaduuu/McPassport/wiki))
+[►Commands and Permissions](https://github.com/Chkaduuu/McPassport/wiki)
 
 ### Required dependencies
 * Java 21+
